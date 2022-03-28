@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @WalberMelo
-- 👀 Web developer
-- 🌱 I’m currently learning full stack web develompent
-- 💞️ I am looking to collaborate as volunteer at any projects that help me to achieve my goal in the real industry scenario.
+- 🌱 Full stack web develompent
 - 📫 How to reach me: linkedin.com/in/walberdemelo or dev4wm@gmail.com  
 
 <!---
