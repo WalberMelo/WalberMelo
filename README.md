@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WalberMelo
-- 🌱 Full stack web develompent
+- 🌱 Full stack web developer
 - 📫 How to reach me: linkedin.com/in/walberdemelo or dev4wm@gmail.com  
 
 <!---
