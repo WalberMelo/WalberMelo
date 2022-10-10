@@ -59,4 +59,4 @@
 </a>
 <hr/>
      
-https://badges.pufler.dev/visits/walbermelo/https://github.com/WalberMelo
+<img src="https://badges.pufler.dev/visits/walbermelo/https://github.com/WalberMelo">
