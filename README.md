@@ -54,5 +54,10 @@
      <a href="https://www.linkedin.com/in/walberdemelo">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
      </a>
- 
+     
+ <div align="center">
+
+### Instead of being stuck on the problem, try to find the solution!
+
+</div>
  
