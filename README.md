@@ -1,6 +1,6 @@
-<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-## Hey, I'm Walber Melo,  Full-Stack web developer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+
+## 👨🏻‍💻  Hey, I'm Walber Melo,  Full-Stack web developer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 - 🚀  I'm passionate about doing new things, new challenges and creating amazing projects that can improve or change people's lives.</h4> 
 - 👀  I also like read technical books.   </h4> 
