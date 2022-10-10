@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻  Hey, I'm Walber Melo,  Full-Stack web developer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-- 🚀  I'm passionate about doing new things, new challenges and creating amazing projects that can improve or change people's lives.</h4> 
+- 🚀  I'm passionate about doing new things, new challenges and creating amazing projects that can improve people's lives.</h4> 
 - 👀  I also like read technical books.   </h4> 
 - 🎯  Life Hack: "Explore with knowledge" 
 - :zap: I love to attend Meetups for learning & Conferences for Networking<br>
@@ -48,8 +48,8 @@
 
   :octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing)
  
-## :heart:Let's get connected:
-  <br/>
+## :heart: Let's get connected:
+<hr/>
      <a href="https://www.linkedin.com/in/walberdemelo">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
      </a>
