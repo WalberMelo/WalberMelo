@@ -8,7 +8,7 @@
 - :zap: I love to attend Meetups for learning & Conferences for Networking<br>
 
 
-## :computer: Technologies and tools - MERN stack
+## :computer: Technologies - MERN stack
 
 * Frontend
  <p align="left">
