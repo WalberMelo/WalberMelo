@@ -52,9 +52,6 @@
 ##  Let's get connected:
 :octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing)
 <hr/>
-<a href="https://github.com/WalberMelo/WalberMelo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalberMelo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
 
 <a href="https://www.linkedin.com/in/walberdemelo">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
