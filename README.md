@@ -10,6 +10,7 @@
 * Frontend and Backend Web Development - MERN stack
 * Machine Learning - Tensor Flow
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walbermelo)](https://github.com/walbermelo/github-readme-stats)
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing)
