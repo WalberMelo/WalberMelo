@@ -57,9 +57,3 @@
 </a>
 <hr/>
      
- <div align="center">
-
-### Instead of being stuck on the problem, try to find the solution!
-
-</div>
- 
