@@ -48,7 +48,8 @@
 ## &#x1f4c8; GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&theme=discord_old_blurple)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Let's get connected:
 
