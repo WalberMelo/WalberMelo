@@ -27,7 +27,7 @@
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing)
-  -  <a href="https://www.linkedin.com/in/walberdemelo" target="_blank" style="text-decoration:none>
+     <a href="https://www.linkedin.com/in/walberdemelo" target="_blank" style="text-decoration:none">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
      </a>
  
