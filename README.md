@@ -49,7 +49,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&theme=discord_old_blurple)
 
 <!--START_SECTION:waka-->
+📊 &nbsp;**This week I spent my time on**
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=walbermelo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
 <!--END_SECTION:waka-->
  
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Let's get connected:
