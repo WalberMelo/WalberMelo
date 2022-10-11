@@ -1,6 +1,6 @@
 ## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">  I'm Walber Melo 👨🏻‍💻  Full-Stack web developer   
 
-- 🚀  I'm passionate about learn new things, new challenges and create projects that can improve people's lives.
+- 🚀  I'm passionate about learn new things and create projects that can improve people's live.
 - 👀  I also like read technical books.  
 - 🎯  2023 Goals: Learn more about web3
 - 🧭  Life Hack: "Explore with knowledge" 
@@ -47,15 +47,14 @@
 ## &#x1f4c8; GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&theme=discord_old_blurple)
 
-<!--START_SECTION:waka-->
 📊 &nbsp;**This week I spent my time on**
+<!--START_SECTION:waka-->
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=walbermelo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=WalberMelo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <!--END_SECTION:waka-->
  
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Let's get connected:
-
 <a href="https://www.linkedin.com/in/walberdemelo">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
