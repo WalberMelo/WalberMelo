@@ -1,11 +1,15 @@
-## Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">  
-## I'm Walber Melo  👨🏻‍💻  Full-Stack web developer   
+## Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">  I'm Walber Melo  👨🏻‍💻  Full-Stack web developer  
 
-- 🚀  I'm passionate about learn new things and exicited to create projects that can improve people's lives. 
-- 👀  I also like read technical books.  
-- 🎯  2023 Goals: Learn more about web3
+- 🚀  I'm always exicited to create projects that can improve people's lives. 
+- 👀  I've a mindset of learning & curiosity.  
+- 🎯  2023 Goals: Learn more about AI
 - 🧭  Life Hack: "Explore with knowledge" 
-- ⚡   Fun fact: I love to play guitar and dicorvery new songs
+
+### Hobbies
+🎸 Play guitar
+🏄🏼‍♂️ Surf
+📚 Readç
+💻 code challengues
 
 :octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing)
 
