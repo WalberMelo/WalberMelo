@@ -1,4 +1,5 @@
-## Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">  I'm Walber Melo  👨🏻‍💻  Full-Stack web developer  
+## Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+### I'm Walber Melo  👨🏻‍💻  Full-Stack web developer  
 
 - 🚀  I'm always exicited to create projects that can improve people's lives. 
 - 👀  I've a mindset of learning & curiosity.  
@@ -7,12 +8,15 @@
 
 ### Hobbies
 🎸 Play guitar
+<br/>
 🏄🏼‍♂️ Surf
-📚 Readç
+<br/>
+📚 Read
+<br/>
 💻 code challengues
+<br/>
 
 :octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing)
-
 
 ## :computer: Technologies - MERN stack
 
