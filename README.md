@@ -8,11 +8,6 @@
 
 :octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing)
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Let's get connected:
-<a href="https://www.linkedin.com/in/walberdemelo">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<hr/>
 
 ## :computer: Technologies - MERN stack
 
@@ -60,5 +55,10 @@
 
 <!--END_SECTION:waka-->
  
+ ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Let's get connected:
+<a href="https://www.linkedin.com/in/walberdemelo">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<hr/>
 
 
