@@ -17,7 +17,7 @@
 <br/>
 📚 Read
 <br/>
-💻 code challengues
+🥾 Hiking
 <br/>
 
 :octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing)
