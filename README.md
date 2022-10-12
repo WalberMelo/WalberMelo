@@ -7,7 +7,7 @@
 <br/>
 🎯  2023 Goals: Learn more about AI
 <br/>
-🧭  Life Hack: "Explore with knowledge" 
+🧭  Life Hack: "Motivation is a door that opens from the inside"
 <br/>
 
 ### Hobbies
