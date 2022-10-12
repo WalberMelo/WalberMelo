@@ -3,7 +3,7 @@
 
 🚀  I'm passionate to create projects that can improve people's lives
 <br/>
-👀  I've a mindset of learning & curiosity
+👀  I've a mindset of learning and curiosity
 <br/>
 🎯  2023 Goals: Learn more about AI
 <br/>
