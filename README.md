@@ -1,10 +1,14 @@
 ## Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 ### I'm Walber Melo  👨🏻‍💻  Full-Stack web developer  
 
-🚀  I'm passionate to create projects that can improve people's lives. 
-👀  I've a mindset of learning & curiosity.  
+🚀  I'm passionate to create projects that can improve people's lives
+<br/>
+👀  I've a mindset of learning & curiosity
+<br/>
 🎯  2023 Goals: Learn more about AI
+<br/>
 🧭  Life Hack: "Explore with knowledge" 
+<br/>
 
 ### Hobbies
 🎸 Play guitar
