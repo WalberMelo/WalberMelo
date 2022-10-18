@@ -20,8 +20,6 @@
 🥾 Hiking
 <br/>
 
-<a href="https://drive.google.com/file/d/1FeVg_fxOsTJXziP5t59UReSkmyTQO42U/view?usp=sharing" target="_blank" rel="nofollow">:octocat: My Resume</a>
-
 ## :computer: Technologies - MERN stack
 
 <h3>Frontend</h3>
@@ -69,6 +67,9 @@
 <!--END_SECTION:waka-->
  
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Let's get connected:
+ 
+<a href="https://drive.google.com/file/d/1FeVg_fxOsTJXziP5t59UReSkmyTQO42U/view?usp=sharing" target="_blank" rel="nofollow">:octocat: My Resume</a>
+
 <a href="https://www.linkedin.com/in/walberdemelo">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
