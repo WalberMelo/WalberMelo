@@ -20,7 +20,7 @@
 🥾 Hiking
 <br/>
 
-:octocat: [My Resume](https://drive.google.com/file/d/1uxq1shtoVfoD8D4sD5MHN3drGVA50vlz/view?usp=sharing)
+:octocat: [My Resume](https://drive.google.com/file/d/1FeVg_fxOsTJXziP5t59UReSkmyTQO42U/view?usp=sharing)
 
 ## :computer: Technologies - MERN stack
 
