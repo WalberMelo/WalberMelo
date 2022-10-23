@@ -57,9 +57,14 @@
   </p>
 
 ## &#x1f4c8; GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&theme=discord_old_blurple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walbermelo&layout=compact)](https://github.com/walbermelo/github-readme-stats)
+<table border="0">
+ <tr>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&theme=discord_old_blurple)
+ </tr>
+ <tr>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walbermelo&layout=compact)](https://github.com/walbermelo/github-readme-stats)
+ </tr>
+</table>
 
 📊 &nbsp;**This week I spent my time on**
 
