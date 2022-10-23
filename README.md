@@ -10,16 +10,6 @@
 🧭  Life Hack: "Motivation is a door that opens from the inside"
 <br/>
 
-### Hobbies
-🎸 Play guitar
-<br/>
-🏄🏼‍♂️ Surf
-<br/>
-📚 Read
-<br/>
-🥾 Hiking
-<br/>
-
 ## :computer: Technologies - MERN stack
 
 <h3>Frontend</h3>
@@ -57,14 +47,11 @@
   </p>
 
 ## &#x1f4c8; GitHub Stats
-<table border="0">
- <tr>
-   <td>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&theme=discord_old_blurple)</td>
- </tr>
- <tr>
-   <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walbermelo&layout=compact)](https://github.com/walbermelo/github-readme-stats)</td>
- </tr>
-</table>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&theme=discord_old_blurple)</td>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walbermelo&layout=compact)](https://github.com/walbermelo/github-readme-stats)
+
 
 📊 &nbsp;**This week I spent my time on**
 
