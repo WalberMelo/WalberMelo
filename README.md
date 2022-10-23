@@ -61,9 +61,7 @@
       <tr>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
-          <a href="https://github.com/jeffreyc86">
             <img src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg"  alt="Walber's Language Stats" vertical-align="middle"/>
-          </a>
         </div>
         </td>
         <td width="50%" style="border: none !important;">
