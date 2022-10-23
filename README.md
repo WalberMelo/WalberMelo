@@ -1,4 +1,4 @@
-## Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hi friend! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 ### I'm Walber Melo  👨🏻‍💻  Full-Stack web developer  
 
 🚀  I'm passionate to develop projects that can contribute for the society and improve people's lives
