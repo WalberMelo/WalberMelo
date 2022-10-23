@@ -62,9 +62,7 @@
 📊 &nbsp;**This week I spent my time on**
 <!--START_SECTION:waka-->
 
-waka-readme.yml
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=WalberMelo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=WalberMelo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <!--END_SECTION:waka-->
  
