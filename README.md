@@ -59,10 +59,10 @@
 ## &#x1f4c8; GitHub Stats
 <table border="0">
  <tr>
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&theme=discord_old_blurple)
+   <td>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&theme=discord_old_blurple)</td>
  </tr>
  <tr>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walbermelo&layout=compact)](https://github.com/walbermelo/github-readme-stats)
+   <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walbermelo&layout=compact)](https://github.com/walbermelo/github-readme-stats)</td>
  </tr>
 </table>
 
