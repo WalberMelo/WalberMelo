@@ -53,7 +53,7 @@
 </p>
 
 📊 &nbsp;**This week I spent my time on** </br>
-* Click for zoom in * 🔎
+*Click for zoom in* 🔎
  
 <div align="center">
   <table>
