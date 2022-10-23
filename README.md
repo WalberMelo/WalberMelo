@@ -52,8 +52,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&hide=stars&hide_border=true" width="50%">
 </p>
 
-📊 &nbsp;**This week I spent my time on**
-	* Click for zoom in * 🔎
+📊 &nbsp;**This week I spent my time on** </br>
+* Click for zoom in * 🔎
  
 <div align="center">
   <table>
