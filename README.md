@@ -47,10 +47,28 @@
   </p>
 
 ## &#x1f4c8; GitHub Stats
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&theme=discord_old_blurple)</td>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walbermelo&layout=compact)](https://github.com/walbermelo/github-readme-stats)
+<div align="center">
+  <table width="100%">
+    <tbody>
+      <tr>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/jeffreyc86">
+            <img src="https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&theme=discord_old_blurple" alt="Walber's Language Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+        <td width="50%" style="border: none !important;">
+        <div align="center" width="100%">
+          <a href="https://github.com/jeffreyc86">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walbermelo&layout=compact)](https://github.com/walbermelo/github-readme-stats" alt="walber's GitHub Stats" vertical-align="middle"/>
+          </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
 
 
 📊 &nbsp;**This week I spent my time on**
