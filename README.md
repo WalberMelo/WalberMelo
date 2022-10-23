@@ -59,12 +59,12 @@
   <table width="100%">
     <tbody>
       <tr>
-        <td width="70%" style="border: none !important;">
+        <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
             <img src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg" width="100%"  alt="Walber's Language Stats" vertical-align="middle"/>
         </div>
         </td>
-        <td width="70%" style="border: none !important;">
+        <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
             <img src="https://wakatime.com/share/@WalberMelo/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg" width="100%" alt="walber's GitHub Stats" vertical-align="middle"/>
         </div>
