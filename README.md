@@ -74,7 +74,7 @@
 📊 &nbsp;**This week I spent my time on**
 
 <p align=center>
-<img src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg">
+<img src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg" width="50%">
 </p>
 
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Let's get connected:
