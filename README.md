@@ -73,12 +73,10 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-<figure>
-<embed src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg">
-</embed>
-</figure>
+<p align=center>
+<img src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg">
+</p>
 
- 
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Let's get connected:
  
 <a href="https://drive.google.com/file/d/1FeVg_fxOsTJXziP5t59UReSkmyTQO42U/view?usp=sharing" target="_blank" rel="nofollow">:octocat: My Resume</a>
