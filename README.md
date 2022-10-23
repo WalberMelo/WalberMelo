@@ -47,6 +47,14 @@
   </p>
 
 ## &#x1f4c8; GitHub Stats
+
+<p align=center>
+<img src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg" width="50%">
+</p>
+
+
+📊 &nbsp;**This week I spent my time on**
+
 <div align="center">
   <table width="100%">
     <tbody>
@@ -54,28 +62,19 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/jeffreyc86">
-            <img src="https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&theme=discord_old_blurple" alt="Walber's Language Stats" vertical-align="middle"/>
+            <img src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg" width="50%" alt="Walber's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
-          <a href="https://github.com/jeffreyc86">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walbermelo&layout=compact)](https://github.com/walbermelo/github-readme-stats" alt="walber's GitHub Stats" vertical-align="middle"/>
-          </a>
+            <img src="https://wakatime.com/share/@WalberMelo/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg" width="50%" alt="walber's GitHub Stats" vertical-align="middle"/>
         </div>
         </td>
       </tr>
     </tbody>
   <table>
 <div>
-
-
-📊 &nbsp;**This week I spent my time on**
-
-<p align=center>
-<img src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg" width="50%">
-</p>
 
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Let's get connected:
  
