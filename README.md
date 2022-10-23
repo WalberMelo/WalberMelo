@@ -53,7 +53,7 @@
       <tr>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
-            <img src="https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&hide=stars&hide_border=true" alt="walber's GitHub Stats" vertical-align="middle"/>
+            <img src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg" width="100%" alt="walber's GitHub Stats" vertical-align="middle"/>
         </div>
         </td>
         <td width="50%" style="border: none !important;">
@@ -67,11 +67,10 @@
 <div>
 
 
-
 📊 &nbsp;**This week I spent my time on**
 
 <p align=center>
-<img src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&hide=stars&hide_border=true" width="50%">
 </p>
 
 
