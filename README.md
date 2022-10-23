@@ -73,7 +73,10 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-<figure><embed src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg"></embed></figure>
+<figure>
+<embed src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg">
+</embed>
+</figure>
 
  
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Let's get connected:
