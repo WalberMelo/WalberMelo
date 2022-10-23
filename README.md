@@ -81,19 +81,19 @@
  <table width="100%">
     <tbody>
       <tr>
-        <td width="50%" style="border: none !important;">
+        <td style="border: none !important;">
            <div align="center" width="100%">
            <a href="https://drive.google.com/file/d/1FeVg_fxOsTJXziP5t59UReSkmyTQO42U/view?usp=sharing" target="_blank" rel="nofollow">:octocat: My Resume</a>
            </div>
         </td>
-         <td width="50%" style="border: none !important;">
+         <td style="border: none !important;">
            <div align="center" width="100%">
           <a href="https://www.linkedin.com/in/walberdemelo">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
            </div>
         </td>
-         <td width="50%" style="border: none !important;">
+         <td style="border: none !important;">
            <div align="center" width="100%">
           <a href="mailto:dev4wm@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
