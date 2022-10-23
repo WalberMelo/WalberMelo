@@ -53,7 +53,6 @@
 </p>
 
 📊 &nbsp;**This week I spent my time on** </br>
-           *Click for zoom in* 🔎
  
 <div align="center">
   <table>
@@ -77,6 +76,7 @@
     </tbody>
   <table>
 <div>
+*Click for zoom in* 🔎
 
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Let's get connected
  
