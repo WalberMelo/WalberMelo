@@ -46,7 +46,13 @@
  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/> 
   </p>
 
+
 ## &#x1f4c8; GitHub Stats
+<p align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&hide=stars&hide_border=true" width="50%">
+</p>
+
+📊 &nbsp;**This week I spent my time on**
 <div align="center">
   <table width="100%">
     <tbody>
@@ -65,14 +71,6 @@
     </tbody>
   <table>
 <div>
-
-
-📊 &nbsp;**This week I spent my time on**
-
-<p align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&hide=stars&hide_border=true" width="50%">
-</p>
-
 
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Let's get connected:
  
