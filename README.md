@@ -54,12 +54,12 @@
 
 📊 &nbsp;**This week I spent my time on**
 <div align="center">
-  <table width="100%">
+  <table>
     <tbody>
       <tr>
         <td style="border: none !important;">
         <div>
-           <a href=[https://wakatime.com/share/@WalberMelo/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg](https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg)>
+           <a href=https://wakatime.com/share/@WalberMelo/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg>
             <img src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg" width="100%" alt="walber's GitHub Stats" vertical-align="middle"/>
             </a>
         </div>
