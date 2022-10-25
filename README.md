@@ -60,14 +60,14 @@
       <tr>
         <td style="border: none !important;">
         <div>
-           <a href=https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg>
+           <a "href=https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg" target="_blank">
             <img src="https://wakatime.com/share/@WalberMelo/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg" width="100%" alt="walber's GitHub Stats" vertical-align="middle"/>
             </a>
         </div>
         </td>
         <td style="border: none !important;">
         <div >
-         <a href=https://wakatime.com/share/@WalberMelo/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg>
+         <a href="https://wakatime.com/share/@WalberMelo/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg" target="_blank">
             <img src="https://wakatime.com/share/@WalberMelo/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg" width="100%" alt="walber's GitHub Stats" vertical-align="middle"/>
          </a>
         </div>
@@ -85,19 +85,19 @@
       <tr>
         <td style="border: none !important;">
            <div align="center" width="100%">
-           <a href="https://drive.google.com/file/d/1FeVg_fxOsTJXziP5t59UReSkmyTQO42U/view?usp=sharing" target="_blank" rel="nofollow">:octocat: My Resume</a>
+           <a href="https://drive.google.com/file/d/1FXEMMs6C6Hog-k-7T50Fi7dgkcCVYGPp/view?usp=sharing" target="_blank" rel="nofollow">:octocat: My Resume</a>
            </div>
         </td>
          <td style="border: none !important;">
            <div align="center" width="100%">
-          <a href="https://www.linkedin.com/in/walberdemelo">
+          <a href="https://www.linkedin.com/in/walberdemelo" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
            </div>
         </td>
          <td style="border: none !important;">
            <div align="center" width="100%">
-          <a href="mailto:dev4wm@gmail.com">
+          <a href="mailto:dev4wm@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
            </div>
