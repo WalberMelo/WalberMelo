@@ -1,7 +1,7 @@
 ## Hi friend! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 ### I'm Walber Melo  👨🏻‍💻  Full-Stack web developer  
 
-🚀  I am passionate about developing projects that can contribute to society and improve people's lives.
+🚀  I am passionate about projects that can contribute to society and improve people's live.
 <br/>
 👀  I've a mindset of learning and curiosity
 <br/>
