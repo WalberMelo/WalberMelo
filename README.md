@@ -1,13 +1,13 @@
 ## Hi friend! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 ### I'm Walber Melo  👨🏻‍💻  Full-Stack web developer Frontend oriented.
 
-🚀  I am passionate about projects that can contribute to society and improve people's live.
+🚀   I am passionate about projects that can contribute to society and improve people's live.
 <br/>
-👀  I've a mindset of learning and curiosity
+👀   I've a mindset of learning and curiosity
 <br/>
-🎯  2023 Goals: Learn more about AI
+🎯   2023 Goals: Learn more about AI
 <br/>
-🧭  Life Hack: "Motivation is a door that opens from the inside"
+🧭   Life Hack: "Motivation is a door that opens from the inside"
 <br/>
 
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Let's get connected
