@@ -15,11 +15,13 @@
  <table width="100%">
     <tbody>
       <tr>
+       <!--
         <td style="border: none !important;">
            <div align="center" width="100%">
            <a href="https://drive.google.com/file/d/1FXEMMs6C6Hog-k-7T50Fi7dgkcCVYGPp/view?usp=sharing" target="_blank" rel="nofollow">:octocat: My Resume</a>
            </div>
         </td>
+       --->
          <td style="border: none !important;">
            <div align="center" width="100%">
           <a href="https://www.linkedin.com/in/walberdemelo" target="_blank">
