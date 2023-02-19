@@ -1,5 +1,5 @@
 ## Hi friend! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-### I'm Walber Melo  👨🏻‍💻  Full-Stack web developer Frontend oriented.
+### I'm Walber Melo  👨🏻‍💻  Full-Stack web developer.
 
 🚀   I am passionate about projects that can contribute to society and improve people's live.
 <br/>
