@@ -5,7 +5,7 @@
 <br/>
 👀   I've a mindset of learning and curiosity
 <br/>
-🎯   2023 Goals: Learn more about Pyhton
+🎯   2023 Goals: Learn more about Pyhton and Rusty
 <br/>
 🧭   Life Hack: "Motivation is a door that opens from the inside"
 <br/>
