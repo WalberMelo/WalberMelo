@@ -5,7 +5,7 @@
 <br/>
 👀   I've a mindset of learning and curiosity
 <br/>
-🎯   2023 Goals: Learn more about <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+🎯   2023 Goals: Learn more about AI - TensorFlowJs
 <br/>
 🧭   Life Hack: "Motivation is a door that opens from the inside"
 <br/>
