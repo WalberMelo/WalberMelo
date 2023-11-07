@@ -43,7 +43,6 @@
 
 ## :computer: Technologies - MERN stack
 
-<details>
   <summary><h3>Frontend</h3></summary> 
  
  <p align="left">
@@ -59,9 +58,7 @@
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
  </p>
  
- </details>
 
-<details>
   <summary><h3>Backend</h3></summary> 
  
  <p align="left">
@@ -73,9 +70,7 @@
 
  </p>
 
- </details>
  
- <details>
   <summary><h3>Toolbox</h3></summary> 
  
  <p align="left">
@@ -87,7 +82,6 @@
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> 
   </p>
  
-  </details>
 
 ## &#x1f4c8; GitHub Stats
 <p align=center>
