@@ -1,7 +1,7 @@
 ## Hi friend! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 ### I'm Walber Melo  👨🏻‍💻  Full-Stack developer.
 
-🚀   I am passionate about projects that can contribute to society and improve people's live.
+🚀   I am passionate about projects that contribute to society and improve people's live.
 <br/>
 👀   I've a mindset of learning and curiosity
 <br/>
@@ -76,9 +76,7 @@
  <p align="left">
  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"/>
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036"/> 
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> 
   </p>
  
