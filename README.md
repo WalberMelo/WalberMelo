@@ -1,5 +1,4 @@
-## Hi friend! 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> ## Hi friend! 
 
 ### I'm Walber Melo  👨🏻‍💻  Full-Stack developer.
 
@@ -12,7 +11,7 @@
 🧭   Life Hack: "Motivation is a door that opens from the inside"
 <br/>
 
- ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Let's get connected
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">   ##  Let's get connected
  
  <table width="100%">
     <tbody>
