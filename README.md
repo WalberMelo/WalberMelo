@@ -1,4 +1,4 @@
-## Hi friend! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hi friend! ![Alt text](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ### I'm Walber Melo  👨🏻‍💻  Full-Stack developer.
 
