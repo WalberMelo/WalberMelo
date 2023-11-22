@@ -39,11 +39,12 @@
      </tbody>
   </table>
 <hr/> 
-
+<!--
 ## &#x1f4c8; GitHub Stats
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&hide=stars&hide_border=true" width="50%">
 </p>
+--->
 
 📊 &nbsp;**This week I spent my time on** </br>
  
