@@ -2,13 +2,11 @@
 
 ### I'm Walber Melo  👨🏻‍💻  Full-Stack developer.
 
-🚀  Enthusiastic about projects that push me to new challenges.
+🚀 Enthusiastic about projects that push me to overcome my limits.
 <br/>
 👀   I've a mindset of learning and curiosity
 <br/>
-🎯   2023 Goals: Learn more about AI - TensorFlowJs
-<br/>
-🧭   Life Hack: "Motivation is a door that opens from the inside"
+🎯   2023 Goals: Learn more about AI
 <br/>
 
 ##  Let's get connected
