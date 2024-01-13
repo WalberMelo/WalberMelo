@@ -6,7 +6,7 @@
 <br/>
 👀   I've a mindset of learning and curiosity
 <br/>
-🎯   2023 Goals: Learn more about AI
+🎯   2024 Goals: Learn more about AI technology
 <br/>
 
 ##  Let's get connected
