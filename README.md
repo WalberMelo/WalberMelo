@@ -46,7 +46,7 @@
 </p>
 --->
 
-<!--
+
 
 📊 &nbsp;**This week I spent my time on** </br>
  
@@ -74,7 +74,7 @@
   <table>
 <div>
 *Click for zoom in* 🔎
-     --->
+   
 
 
 
