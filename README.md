@@ -61,7 +61,6 @@
             </a>
         </div>
         </td>
-  
         <td style="border: none !important;">
         <div >
          <a href="https://wakatime.com/share/@WalberMelo/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg" target="_blank">
