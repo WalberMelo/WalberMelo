@@ -2,7 +2,7 @@
 
 ### I'm Walber Melo  👨🏻‍💻  Full-Stack developer.
 
-🚀 Enthusiastic about projects that push me to overcome my limits.
+🚀 Enthusiastic about projects that push my limits to new horizonts.
 <br/>
 👀   I've a mindset of learning and curiosity
 <br/>
