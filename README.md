@@ -1,7 +1,7 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="250" src="https://res.cloudinary.com/devwm/image/upload/v1723369623/Repositories/fd5zoiwnubwois4zzbo6.png">
 
 <h1>
-    <a href="https://elidianaandrade.github.io/">
+    <a href="https://walbermelo.github.io/">
      <img align="center" alt="Logo Walber Melo" width="50px" src="https://res.cloudinary.com/devwm/image/upload/v1723367694/portofolio/website/m2gllhg1bue59xkjaejy.png"></a>
     <span>Walber Melo</span>
 </h1>
@@ -19,6 +19,7 @@
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8434E7&color:FFF)](https://www.linkedin.com/in/walbermelo/)
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.walbermelo.com/)
 
 ### GitHub Stats
 
