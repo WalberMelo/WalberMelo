@@ -19,7 +19,7 @@
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8434E7&color:FFF)](https://www.linkedin.com/in/walbermelo/)
-[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.walbermelo.com/)
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=8434E7&color:FFF)](https://www.walbermelo.com/)
 
 ### GitHub Stats
 
