@@ -2,7 +2,7 @@
 
 ### I'm Walber Melo  👨🏻‍💻  Full-Stack developer.
 
-🚀 Enthusiastic about projects that push my limits to new horizonts.
+🚀 "To do things well, it is necessary: first, love; second, technique." - Gaudí.
 <br/>
 👀   I've a mindset of learning and curiosity
 <br/>
