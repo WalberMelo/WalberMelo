@@ -6,7 +6,7 @@
     <span>Walber Melo</span>
 </h1>
 
-<p align="justify">Full Stack Developer engaged in collaborating at all stages of the software development lifecycle, prioritizing clean and well-structured code using the latest technologies and software architecture principles. 
+<p align="justify">I'm a Full Stack Developer with a deep programming interest, seeking an environment for skill application, growth, and self-development. 
 </p>
 
 👀   I've a mindset of learning and curiosity
