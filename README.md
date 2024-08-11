@@ -1,61 +1,40 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Hi there! 
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="250" src="https://res.cloudinary.com/devwm/image/upload/v1723369623/Repositories/fd5zoiwnubwois4zzbo6.png">
 
-### I'm Walber Melo  👨🏻‍💻  Full-Stack developer.
+<h1>
+    <a href="https://elidianaandrade.github.io/">
+     <img align="center" alt="Logo Walber Melo" width="50px" src="https://res.cloudinary.com/devwm/image/upload/v1723367694/portofolio/website/m2gllhg1bue59xkjaejy.png"></a>
+    <span>Walber Melo</span>
+</h1>
 
-🚀 "To do things well, it is necessary: first, love; second, technique." - Gaudí.
-<br/>
+<p align="justify">Full Stack Developer engaged in collaborating at all stages of the software development lifecycle, prioritizing clean and well-structured code using the latest technologies and software architecture principles. 
+</p>
+
 👀   I've a mindset of learning and curiosity
 <br/>
 🎯   2024 Goals: Learn more about AI technology
 <br/>
+🚀 "<i>To do things well, it is necessary: first, love; second, technique.</i>" - Gaudí.
 
-##  Let's get connected
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8434E7&color:FFF)](https://www.linkedin.com/in/walbermelo/)
+
+### GitHub Stats
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=walbermelo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+
+
+<details align="left">
+  <summary></summary> 
  
- <table width="100%">
-    <tbody>
-      <tr>
-         <td style="border: none !important;">
-           <div align="center" width="100%">
-          <a href="https://www.linkedin.com/in/walberdemelo" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-           </div>
-        </td>
-         <td style="border: none !important;">
-           <div align="center" width="100%">
-          <a href="mailto:dev4wm@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-</a>
-           </div>
-        </td>
-       </tr>
-     </tbody>
-  </table>
-<hr/> 
-
-## &#x1f4c8; GitHub Stats
-<p align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=walbermelo&show_icons=true&hide=stars&hide_border=true" width="50%">
-</p>
-
-📊 &nbsp;**This week I spent my time on** </br>
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
  
-<div align="center">
-  <table>
-    <tbody>
-      <tr>
-        <td style="border: none !important;">
-        <div >
-         <a href="https://wakatime.com/share/@WalberMelo/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg" target="_blank">
-            <img src="https://wakatime.com/share/@WalberMelo/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg" width="100%" alt="walber's GitHub Stats" vertical-align="middle"/>
-         </a>
-        </div>
-        </td>
-      </tr>
-    </tbody>
-  <table>
-<div>
-*Click for zoom in* 🔎
-   
+  <div align="right">Made with 💜 by <a href="https://github.com/walbermelo">EA</a>.</div>
+
+</details>
+
 
 
