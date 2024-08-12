@@ -18,8 +18,9 @@
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8434E7&color:FFF)](https://www.linkedin.com/in/walbermelo/)
-[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=8434E7&color:FFF)](https://www.walbermelo.com/)
+<code>[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8434E7&color:FFF)](https://www.linkedin.com/in/walbermelo/)</code>
+<code>[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=8434E7&color:FFF)](https://www.walbermelo.com/)</code>
+<code>[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@walbermelo)</code>
 
 ### GitHub Stats
 
@@ -32,10 +33,9 @@
   - Badges by <a href="https://shields.io/">shields.io</a><br>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
- 
-  <div align="right">Made with 💜 by <a href="https://github.com/walbermelo">EA</a>.</div>
+
 
 </details>
 
-
+  <div align="right">Made by 🟣 W⎮M</a></div>
 
