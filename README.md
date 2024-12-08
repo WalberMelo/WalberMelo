@@ -15,6 +15,7 @@
 <br/>
 🚀 "<i>To do things well, it is necessary: first, love; second, technique.</i>" - Gaudí.
 
+---
 
 ### Connect with me
 
@@ -22,10 +23,20 @@
 <code>[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=8434E7&color:FFF)](https://www.walbermelo.com/)</code>
 <code>[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@walbermelo)</code>
 
+---
+
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=walbermelo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
 
+---
+
+### My Weekly WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 
 <details align="left">
   <summary></summary> 
@@ -34,6 +45,7 @@
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
 
+---
 
 </details>
 
