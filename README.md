@@ -34,6 +34,19 @@
 ### My Weekly WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 10 October 2022 - To: 08 December 2024
+
+Total Time: 2,341 hrs 29 mins
+
+JavaScript        1,169 hrs 48 mins████████████▒░░░░░░░░░░░░   49.96 %
+TypeScript        628 hrs 59 mins ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
+Vue.js            117 hrs 55 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+HTML              102 hrs 33 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+CSS               88 hrs 22 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
