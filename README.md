@@ -11,7 +11,7 @@
 
 👀   I've a mindset of learning and curiosity
 <br/>
-🎯   2025 Goals: Continue to deepen AI integration knowledge.
+🎯   2025 Goals: Expand AI knwoledge.
 <br/>
 🚀 "<i>To do things well, it is necessary: first, love; second, technique.</i>" - Gaudí.
 
