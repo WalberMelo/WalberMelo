@@ -36,14 +36,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2022 - To: 09 April 2025
+From: 10 October 2022 - To: 10 April 2025
 
-Total Time: 2,660 hrs 27 mins
+Total Time: 2,665 hrs 23 mins
 
-JavaScript        1,338 hrs 52 mins████████████▓░░░░░░░░░░░░   50.33 %
-TypeScript        707 hrs 13 mins ██████▓░░░░░░░░░░░░░░░░░░   26.58 %
-Vue.js            135 hrs 4 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-HTML              128 hrs 22 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+JavaScript        1,341 hrs 30 mins████████████▓░░░░░░░░░░░░   50.33 %
+TypeScript        709 hrs 26 mins ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
+Vue.js            135 hrs 4 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+HTML              128 hrs 22 mins █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
 CSS               88 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
